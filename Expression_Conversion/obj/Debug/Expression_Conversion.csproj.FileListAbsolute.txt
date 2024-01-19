@@ -1,0 +1,13 @@
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-11\UniProject-11\obj\Debug\UniProject-11.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-11\UniProject-11\bin\Debug\UniProject-11.exe.config
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-11\UniProject-11\bin\Debug\UniProject-11.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-11\UniProject-11\bin\Debug\UniProject-11.pdb
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-11\UniProject-11\obj\Debug\UniProject-11.pdb
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\UniProject-11\Expression_Conversion\bin\Debug\UniProject-11.exe.config
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\UniProject-11\Expression_Conversion\obj\Debug\UniProject-11.exe
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\UniProject-11\Expression_Conversion\obj\Debug\UniProject-11.pdb
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\UniProject-11\Expression_Conversion\bin\Debug\UniProject-11.exe
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\UniProject-11\Expression_Conversion\bin\Debug\UniProject-11.pdb
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\Expression-Conversion\Expression_Conversion\bin\Debug\UniProject-11.exe.config
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\Expression-Conversion\Expression_Conversion\obj\Debug\UniProject-11.exe
+C:\Users\Meti\Documents\Visual Studio 2012\Projects\Expression-Conversion\Expression_Conversion\obj\Debug\UniProject-11.pdb
